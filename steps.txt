@@ -4,3 +4,8 @@
 4. git status
 5. git commit -m 'first commit'
 6. git branch secondLine 
+7. git checkout secondLine
+8. git add .
+9. git checkout master
+10. git remote add origin git@github.com:colt759/222222.git
+11. git push -u origin main
